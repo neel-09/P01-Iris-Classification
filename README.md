@@ -69,6 +69,6 @@ To run this project, you need to have Python and the required libraries installe
     ```
 
 4.  **Run the Jupyter Notebook:**
-    Open the `P01_Iris_Classification.ipynb` file in Jupyter Notebook to view the code and run the cells.
+    Open the `Project1.ipynb` file in Jupyter Notebook to view the code and run the cells.
 
 ---
